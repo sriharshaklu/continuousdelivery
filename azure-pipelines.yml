@@ -56,5 +56,5 @@ steps:
 
 
     script: |
-      print('AZURE PIPELINE')
-      print('CONTINUOUS INTEGRATION & CONTINUOUS DEPLOYMENT')
+      print('This is Section 1 Azure Demonstration')
+      print('KL-CSE')
